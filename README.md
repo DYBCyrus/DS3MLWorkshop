@@ -3,5 +3,5 @@ This Github repo contains jupyter notebooks for all the Machine Learning Worksho
 # Tentative topics
 1. KNN
 2. DecisionTree/RandomForest
-3. LinearRegression/LassoRegression/RidgeRegression
+3. LinearRegression/LassoRegression/RidgeRegression<br>
 To be continued...
